@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://misiono.github.io/sitemap
+Sitemap: https://misiono.github.io/app/sitemap
+Sitemap: https://misiono.github.io/assets/sitemap
+Sitemap: https://misiono.github.io/css/sitemap
+Sitemap: https://misiono.github.io/includes/sitemap
+Sitemap: https://misiono.github.io/item/sitemap
+Sitemap: https://misiono.github.io/src/sitemap
